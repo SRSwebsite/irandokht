@@ -1,0 +1,4 @@
+قهوه: espresso، americano، cappuccino، latte، v60
+صبحانه: iranian-breakfast، tomato-omelette، mushroom-omelette، pancake، avocado-toast، english-breakfast، boiled-eggs
+بار سرد: lemonade، mojito، iced-americano، iced-latte، iced-mocha، chocolate-shake، vanilla-shake، strawberry-shake، mango-smoothie، berry-banana-smoothie، orange-juice، carrot-juice، watermelon-juice، peach-iced-tea، cherry-soda
+بار گرم: iranian-tea، masala-tea، green-tea، earl-grey، bahar-narenj، lemon-verbena، relax-herbal، borage، hot-chocolate، hot-mocha، honey-milk، milk-coffee، sahlab، saffron-milk، ginger-honey-tea
